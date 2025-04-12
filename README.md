@@ -61,6 +61,4 @@ python manage.py runserver
 
 #
 
-### App Preview :
 
-<p align="center"><img src="./static/images/ss.png" width="800"></p>
