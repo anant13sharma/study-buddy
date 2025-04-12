@@ -1,3 +1,16 @@
+> **⚠️ Note on Deployment**
+>
+> This project was originally deployed on **Heroku**, but as Heroku has discontinued its free tier, it is no longer hosted there.
+> 
+> If you're cloning or forking this project, we recommend deploying it on platforms that still offer free hosting for Django apps, such as:
+>
+> - **Render** (https://render.com)
+> - **Railway** (https://railway.app)
+>
+> The project is fully compatible with both platforms.
+
+
+
 <div align="center">
 <img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 
